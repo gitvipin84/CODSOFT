@@ -1,5 +1,5 @@
 # CODSOFT
-This is basic To Do Application.
+This is basic To Do List Application.
 Developed using react native application.
 Development tools : VsCode,Expo Go application for testing.
 The key learnings from this application is :
